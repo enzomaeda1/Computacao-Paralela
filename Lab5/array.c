@@ -1,3 +1,5 @@
+// Crie um programa em C que multiplica todos os elementos de um array por 4 ou por um valor fornecido pelo usuário;
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
